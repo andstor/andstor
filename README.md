@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm André Storhaug 👋
+> /ˈɑːndɹeɪ ˈstoˑɹhaːg/
 <!--
 **andstor/andstor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a 2nd-year Postgraduate student 🎓 at the Norwegian University of Science and Technology (NTNU), pursuing a Masters in Computer Science.
+
+
+![](https://img.shields.io/github/followers/andstor?style=social)
+![](https://komarev.com/ghpvc/?username=andstor)
