@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I am a 2nd-year Postgraduate student 🎓 at the Norwegian University of Science and Technology (NTNU), pursuing a Masters in Computer Science.
 
+### 📫 How to reach me:
+
+- Email: [andr3.storhaug@gmail.com](mailto:andr3.storhaug@gmail.com)
 
 ![](https://img.shields.io/github/followers/andstor?style=social)
 ![](https://komarev.com/ghpvc/?username=andstor)
