@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a 2nd-year Postgraduate student 🎓 at the Norwegian University of Science and Technology (NTNU), pursuing a Masters in Computer Science.
+I am a 2nd-year postgraduate student 🎓 at the Norwegian University of Science and Technology (NTNU), pursuing a Masters in Computer Science.
 
 ### 📫 How to reach me:
 
