@@ -1,6 +1,6 @@
 ### Hi there, I'm André Storhaug 👋
 
-> /ˈɑːndɹeɪ ˈstoˑɹhaːg/
+> /ˈɑːndɹe ˈstoˑɹhaːg/
 
 <!--
 **andstor/andstor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
