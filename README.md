@@ -23,5 +23,6 @@ I am a PhD student 🎓 at the Norwegian University of Science and Technology (N
 
 - Email: [andr3.storhaug@gmail.com](mailto:andr3.storhaug@gmail.com)
 
-![](https://img.shields.io/github/followers/andstor?style=social)
+![](https://img.shields.io/github/stars/andstor)
 ![](https://komarev.com/ghpvc/?username=andstor)
+
